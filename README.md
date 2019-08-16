@@ -5,4 +5,5 @@ Example app of creating a Leaflet Map component in React. The app is bootstrappe
 ## To run
 
 `npm install` or `yarn`
+
 `npm run start` or `yarn start`
